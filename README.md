@@ -43,31 +43,7 @@ Me interesa el desarrollo de software, los algoritmos y la resolución de proble
 
 ---
 
-## 🧠 Conocimientos técnicos
 
-- **Programación:** C, Java y fundamentos de Python.
-- **Estructuras de datos:** listas, matrices, heaps y grafos.
-- **Algoritmos:** recursividad, búsqueda, ordenamiento y caminos mínimos con Dijkstra.
-- **Programación orientada a objetos:** diseño e implementación de soluciones en Java.
-- **Redes:** protocolos de comunicación y transferencia confiable de archivos mediante UDP.
-- **Herramientas:** Git, GitHub y Linux.
-
----
-
-## 🚀 Proyectos destacados
-
-📌 Podés explorar mis repositorios para conocer mis proyectos académicos y personales.
-
-Algunos de los temas en los que trabajé:
-
-- **Algoritmos y estructuras de datos:** implementación de estructuras y resolución de problemas algorítmicos.
-- **Programación orientada a objetos:** desarrollo de aplicaciones utilizando Java.
-- **Redes de computadoras:** implementación de mecanismos de transferencia confiable de archivos sobre UDP.
-- **Desarrollo de software:** modelado de dominio, diseño de soluciones y desarrollo de funcionalidades.
-
-👉 [Ver todos mis proyectos en GitHub](https://github.com/Mortha4?tab=repositories)
-
----
 
 ## 📊 GitHub Stats
 
