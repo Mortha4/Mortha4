@@ -35,30 +35,10 @@ Me interesa el desarrollo de software, los algoritmos y la resolución de proble
   <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js" alt="Lenguajes de programación" />
 </p>
 
-### Herramientas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,idea" alt="Herramientas de desarrollo" />
-</p>
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Mortha4&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Estadísticas de GitHub"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortha4&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-    alt="Lenguajes más utilizados"
-  />
-</p>
 
 ---
 
