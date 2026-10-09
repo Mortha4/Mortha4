@@ -1,3 +1,5 @@
+<div align="center"> <img src="coffee.svg" alt="Taza de café animada" width="160" /> </div>
+
 ## Hola 👋, soy José Luis Fernández
 
 Estudiante de Ingeniería Informática en la **FIUBA** 💻
